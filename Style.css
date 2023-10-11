@@ -1,0 +1,19 @@
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: 5rem;
+    background: #333;
+    color: #fff;
+    padding: .9rem 3.5rem;
+    cursor:pointer;
+    font-size: 1.8rem;
+}
+
+.btn:hover{
+    color: var(--pink);
+}
+
+.carousel-inner{
+    height: 400px;
+    width: 300px;
+}
